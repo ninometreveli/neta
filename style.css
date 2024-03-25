@@ -1,0 +1,19 @@
+*{
+    color:red;
+    background-color: aquamarine;
+}
+
+.heading {
+    color:blue;
+}
+
+.heading {
+
+    color:blue;
+    border:5px solid black;
+    text-align:center
+    padding-bottom=30px;
+    padding:50px 100px;
+    background-color:blueviolet
+}
+
